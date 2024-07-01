@@ -1,3 +1,3 @@
 # clone-tabnews
-um clome da tabnews do curso codedev.com
+um clone da tabnews do curso codedev.com
 
