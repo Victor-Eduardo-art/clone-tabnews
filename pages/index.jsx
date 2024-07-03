@@ -2,7 +2,7 @@ export default function Home() {
     const invisivel = {
         color: "#ffffff00"
     }
-    return (
+    return (    
         <>
             <h1 style={invisivel}>se descobriu isso você é mil vezes incrivel :)</h1>
             <h2>Barbara você é demais e me inspira</h2>
