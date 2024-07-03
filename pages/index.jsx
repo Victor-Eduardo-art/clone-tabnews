@@ -3,10 +3,6 @@ export default function Home() {
     color: "#ffffff00",
   };
 
-
-
-
-
   return (
     <>
       <h1 style={invisivel}>se descobriu isso você é mil vezes incrivel :)</h1>
